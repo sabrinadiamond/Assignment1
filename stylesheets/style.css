@@ -1,0 +1,12 @@
+body{
+	background-color: #fffbc4;
+}
+h1{
+font-family: 'Permanent Marker', sans-serif; color: navy; background-color: white; text-align: center;
+}
+p{
+		font-family: 'Gloria Hallelujah', cursive; color:#010059; 
+}
+li{
+	font-family:'Gloria Hallelujah', cursive; color: hsl(210,100%,30%)
+}
